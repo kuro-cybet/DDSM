@@ -355,7 +355,7 @@ function Hero({ scrollY }) {
         <div className={`transition-all duration-600 delay-200 ${mounted ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"}`}>
           <span className="inline-block text-xs font-mono tracking-[0.4em] uppercase mb-6 border px-4 py-2 rounded-full"
             style={{ color: "rgba(34,180,120,0.8)", borderColor: "rgba(34,180,120,0.25)", background: "rgba(34,180,120,0.05)" }}>
-            Senior Project · Sensor Engineering
+            Divided Differences Sensor Modeling
           </span>
         </div>
 
@@ -374,7 +374,7 @@ function Hero({ scrollY }) {
             Divided Difference-based Sensor Modeling
           </p>
           <p className="text-sm md:text-base text-slate-500 font-mono tracking-widest">
-            Newton's Interpolation · Calibration · Error Correction
+            Newton's Divided Difference · Calibration · Error Correction
           </p>
         </div>
 
